@@ -1,0 +1,97 @@
+aside{
+    h2{
+        text-align: center;
+        color: #2A2C1F;
+        font-size: 48px;
+    }
+    p{
+        color: #65665C;
+        font-size: 18px;
+        text-align: center;
+    }
+    .row{
+        padding: 80px;
+
+      .col{
+
+        .card{
+            margin-top: 20px;
+            width: 380px;
+            height: 291px;
+            flex-shrink: 0;
+            border-radius: 16px;
+            border: 1px solid #E7E8E3;
+            background: #FFF;
+            box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.08);
+            img{
+                margin: 25px 155px;
+                width: 60px;
+            }
+
+            .card-body{
+                .card-text{
+                    width: 338px;
+                    color: #65665C;
+                    text-align: center;
+                    font-size: 16px;
+                }
+                .card-title{
+                                
+                                text-align: center;
+                            }
+            }
+        }
+      }
+    } 
+}
+
+.blocx{
+    h2{
+        text-align: center;
+        color: #2A2C1F;
+        font-size: 48px;
+    }
+    .col4{
+        margin: 0px 0px;
+    }
+    p{
+        color: #65665C;
+        font-size: 18px;
+        text-align: center;
+    }
+    .row{
+        padding: 80px;
+        margin: 1px 1px;
+
+      .col{
+
+        .card{
+            margin-top: 20px;
+            width: 380px;
+            height: 291px;
+            flex-shrink: 0;
+            border-radius: 16px;
+            border: 1px solid #E7E8E3;
+            background: #FFF;
+            box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.08);
+            img{
+                margin: 20px 125px;
+                // width: 60px;
+            }
+
+            .card-body{
+                .card-text{
+                    width: 338px;
+                    color: #65665C;
+                    text-align: center;   
+                    font-size: 16px;
+                }
+                .card-title{
+                                
+                                text-align: center;
+                            }
+            }
+        }
+      }
+    } 
+}

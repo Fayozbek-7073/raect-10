@@ -1,0 +1,79 @@
+@import './variables'; 
+
+@media(max-width:$md){
+    .inrever{
+        display: flex;
+        flex-direction: row-reverse;
+    }
+    .md-none{
+        display: none;
+    }
+    .shouces{
+        flex-direction: row;
+        display: grid;
+        margin-left: 390px;
+    }
+    aside{
+        h2{
+            margin-top: 50px;
+        }
+    }
+    .assen{
+        flex-flow: column;
+        margin-left: 230px;
+        margin-top: 20px;
+        p{
+            text-align: center;
+            margin-left: 270px;
+        }
+    }
+    .seaction{
+        img{   
+            margin-left: 270px;
+        }
+    }
+    .seaction2{
+            margin-left: 270px;
+    }
+}
+
+@media(max-width:$lg){
+
+    .ld-dnone{
+        display: none;
+    }
+
+    aside{
+        h2{
+            margin-top: 50px;
+        }
+        .row{
+            margin-left: 135px;
+           .col{
+               display: inline;
+            }
+            .col3{
+             margin-left: 290px;
+           }
+        }
+
+    }
+    .blocx{
+        h2{
+            margin-top: 50px;
+        }
+        .row{
+            margin-left: 155px;
+           .col{
+               display: inline;
+            }
+            .col3{
+             margin-left: 220px;
+           }
+           .col4{
+            margin-left: 430px;
+           }
+        }
+    }
+  
+}

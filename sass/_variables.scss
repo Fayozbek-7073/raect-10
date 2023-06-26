@@ -1,0 +1,48 @@
+
+$bod-bc:#F2F2F2;
+$btn-bc:#FCB72B;
+$btn-cl:#ffff;
+$tex-cl:#495567;
+$tex-p:#939CAA;
+
+
+$md: 992px;
+$lg: 767px;
+$sm: 375px;
+
+
+.flex{
+    display: flex;
+}
+a{
+    color: rgb(64, 63, 63);
+    text-decoration: none;
+    list-style: none;
+}
+
+.trans{
+    transition: .2s;
+}
+li{
+    text-decoration: none;
+    list-style: none;
+}
+.hov_opa:hover{
+    opacity: .5;
+    background-color: #e3e4e7;   
+    color: rgb(247, 85, 85);
+}
+.hov_opa:active{
+    color: rgb(126, 118, 118);
+    transition: 0;
+    background-color: #ff0000;
+}
+.btn1{
+    width: 159px;
+    height: 42px;
+    flex-shrink: 0;
+    border-radius: 6px;
+    color: #F2F2F2;
+    border: 1px solid #CF6F49;
+    background: #CF6F49;
+}

@@ -1,0 +1,33 @@
+footer{
+    width: 1280px;
+    height: 291px;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-left: 85px;
+    background-color: rgb(255, 254, 250);
+
+    .imge{
+        width: 100px;
+        height: 80px;
+        margin-top: 0px;
+    }
+
+    .fotow{
+        gap: 30px;
+         display: flex;
+    }
+    
+}
+.endx{
+        width: 1440px;
+        height: 72px;
+        background-color: #F5F5F2;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        gap: 150px;
+    }
+    .icon{
+        gap: 12px;
+    }

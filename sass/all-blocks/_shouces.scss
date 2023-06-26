@@ -1,0 +1,81 @@
+.find{
+    width: 720px;
+    height: 686px;
+    margin-top: 20px;
+    padding: 150px 100px;
+    background-color: rgb(246, 249, 244)
+}
+.hosa{
+    width: 516px;
+    height: 366px;
+}
+.find-img{
+    margin: -180px 1px 1px -100px;
+}
+.find-imgs{
+    margin: 9px -2px -6px 483px;
+}
+.dream{
+    width: 166px;
+    height: 29px;
+    flex-shrink: 0;
+    border-radius: 32px;
+    background: #E7E8E3;
+}
+h1{
+    max-width: 516px;
+    height: 135px;
+    font-size: 56px;
+}
+.dream-paragr{
+    max-width: 509px;
+    height: 90px;
+    color: #65665C;
+    font-size: 20px;
+}
+.form-controll{
+    width: 490px;
+    background-color: rgb(246, 249, 244);
+    .idplus{
+        border: none;
+        background-color: #ffffff;
+    }
+}
+.kreimg{
+    margin-top: 20px;
+    img{
+        width: 710px;
+        height: 684px;
+    }
+}
+.shouces{
+    max-width: 1440px;
+    min-height: 686px;
+    display: flex;
+}
+
+
+.femmelis{
+    width: 1280px;
+    height: 465px;
+    border-radius: 24px;
+    background: #65665C;
+    margin: 100px 85px;
+    img{
+        text-align: center;
+        margin: 55px 604px;
+    }
+    h2{
+        // width: 548px;
+        color: #FFF;
+        text-align: center;
+        font-size: 48px;
+    }
+    p{
+        color: #E7E8E3;
+        text-align: center;
+    }
+    .btn3{
+        margin:20px 550px;
+    }
+}
